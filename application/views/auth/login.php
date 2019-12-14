@@ -29,17 +29,8 @@
                                     <button type="submit" class="btn btn-primary btn-user btn-block">
                                         Login
                                     </button>
-                                    <a class="btn btn-warning btn-user btn-block" href="home">
-                                        Cancel
-                                    </a>
                                 </form>
                                 <hr>
-                                <div class="text-center">
-                                    <a class="small" href="<?= base_url('auth/forgotpassword'); ?>">Forgot Password?</a>
-                                </div>
-                                <div class="text-center">
-                                    <a class="small" href="<?= base_url('auth/registration'); ?>">Create an Account!</a>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -50,4 +41,4 @@
 
     </div>
 
-</div> 
+</div>
